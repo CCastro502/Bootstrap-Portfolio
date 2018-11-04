@@ -2,6 +2,14 @@ body {
     background-image: url("../images/full-bloom.png")
 }
 
+.container {
+    margin-bottom: 50px;
+}
+
+.navbar {
+    margin-bottom: 50px;    
+}
+
 .my-row {
     border-style: solid;
     border-width: 1px;
@@ -24,6 +32,18 @@ body {
     border-color: transparent;
 }
 
+#card-background {
+    background-image: url("../images/full-bloom.png")
+}
+
 .row {
     padding-bottom: 10px;
+}
+
+.navbar-fixed-bottom {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
