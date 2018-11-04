@@ -1,3 +1,7 @@
+body {
+    background-image: url("../images/full-bloom.png")
+}
+
 .my-row {
     border-style: solid;
     border-width: 1px;
@@ -5,6 +9,16 @@
     background-color: whitesmoke;
     padding: 10px;
 }
+
+.my-row-portfolio {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #666666;
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
 
 .card {
     border-color: transparent;
